@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Guancheng Quan（全冠丞）"
   pronouns         : # example: "she/her"  
-  bio              : |
-                    "Postgraduate student"
-                    "Xidian University"
+  bio              : "Postgraduate student at Xidian University"
   location         : "Xi'an, Shaanxi, China"
   employer         : "Xidian University"
   uri              : # URL
