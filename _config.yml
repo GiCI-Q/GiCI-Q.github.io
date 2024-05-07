@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Guancheng Quan（全冠丞）"
   pronouns         : # example: "she/her"  
-  bio              : "Postgraduate student at Xidian University"
+  bio              : "Postgraduate student" |
+                      "Xidian University"
   location         : "Xi'an, Shaanxi, China"
   employer         : "Xidian University"
   uri              : # URL
@@ -47,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
